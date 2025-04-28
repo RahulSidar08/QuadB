@@ -7,8 +7,6 @@ const LoginPage = () => {
   const navigate = useNavigate();
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Email:", email);
-    console.log("Password:", password);
     navigate("/blog");
   };
 

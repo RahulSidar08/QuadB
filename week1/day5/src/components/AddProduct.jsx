@@ -26,7 +26,6 @@ export const AddProduct = () => {
     dispatch(addProduct(product))
     setProduct({ id: '', name: '', price: '' });
     navigate("/")
-    // Submit logic here
   };
 
   return (

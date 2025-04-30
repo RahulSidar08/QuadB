@@ -7,7 +7,6 @@ const ProductList = ({ propProducts }) => {
 
   return (
     <div className="p-6 space-y-8">
-      {/* Render prop products */}
       <div>
         <h2 className="text-xl font-semibold mb-4 text-blue-600">Prop Products</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
@@ -20,8 +19,6 @@ const ProductList = ({ propProducts }) => {
           )}
         </div>
       </div>
-
-      {/* Render Redux store products */}
       <div>
         <h2 className="text-xl font-semibold mb-4 text-green-600">Redux Store Products</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">

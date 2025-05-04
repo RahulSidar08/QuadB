@@ -62,7 +62,7 @@ export const Testimonials = () => {
           </p>
         </div>
 
-        <div className="flex flex-col gap-4 justify-center sm:items-center space-x-4 relative bottom-[-120px] md:flex-row">
+        <div className="flex flex-col gap-4 justify-center items-center sm:items-center space-x-4 relative bottom-[-120px] md:flex-row">
           {cards.map((item, id) => (
             <div
               className="flex flex-col space-y-4 p-6 rounded-xl bg-gradient-to-br from-[#2a0a47] to-[#120217] text-white max-w-md shadow-lg"

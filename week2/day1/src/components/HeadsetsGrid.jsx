@@ -47,8 +47,8 @@ export const HeadsetsGrid = () => {
               className="rounded-lg object-cover w-full h-full max-h-80 sm:max-h-96 transition-all duration-300 hover:brightness-110"
             />
             {item.label && item.desc && (
-              <div className="absolute bottom-4 left-4 right-4 sm:left-6 sm:right-6">
-                <div className="bg-gradient-to-br from-[#4e7dd6] via-[#b05fbd] to-[#8cb6ff] backdrop-blur-md p-4 rounded-md text-white shadow-lg">
+              <div className="absolute bottom-0 left-4 right-4 sm:left-6 sm:right-6">
+                <div className="backdrop-blur-md p-4 rounded-md text-white shadow-lg max-w-60">
                   <p className="font-semibold text-sm">{item.label}</p>
                   <p className="text-xs mt-1 text-white/80">{item.desc}</p>
                 </div>

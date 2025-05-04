@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #0e0218, #1a0631, #110021);
+  color: white; /* optional, based on your design */
+  font-family: 'Poppins', sans-serif; /* or whichever font you're using */
+}

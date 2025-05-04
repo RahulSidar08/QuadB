@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #0e0218, #1a0631, #110021);
+  color: white; 
+  font-family: 'Poppins', sans-serif;
+}

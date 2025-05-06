@@ -1,6 +1,6 @@
 import React from "react";
-import group3 from "../assets/Group 3.png";
-import group28 from "../assets/Group 28.png";
+import group3 from "../assets/Group3.png";
+import group28 from "../assets/Group28.png";
 export const ExperienceGame = () => {
   return (
     <>

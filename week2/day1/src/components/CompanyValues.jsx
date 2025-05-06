@@ -1,9 +1,9 @@
 import React from "react";
-import group22 from "../assets/Group 22.png";
+import group22 from "../assets/Group22.png";
 import hand from "../assets/emojione_victory-hand.png";
-import strong from "../assets/Vector (1).png";
+import strong from "../assets/Vector(1).png";
 import light from "../assets/twemoji_light-bulb.png";
-import right from "../assets/Group 40.png";
+import right from "../assets/Group40.png";
 export const CompanyValues = () => {
   const cards = [
     {

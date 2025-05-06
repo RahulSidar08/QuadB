@@ -1,8 +1,8 @@
 import React from "react";
-import group37 from "../assets/Group 37.png";
-import reactangle34 from "../assets/Rectangle 34.png";
-import rectangle35 from "../assets/Rectangle 35.png";
-import rectangle36 from "../assets/Rectangle 36.png";
+import group37 from "../assets/Group37.png";
+import reactangle34 from "../assets/Rectangle34.png";
+import rectangle35 from "../assets/Rectangle35.png";
+import rectangle36 from "../assets/Rectangle36.png";
 
 export const HeadsetsGrid = () => {
   const headsetData = [

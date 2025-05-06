@@ -1,6 +1,6 @@
 import React from "react";
-import vector5 from "../assets/Vector 5.png";
-import group35 from "../assets/Group 35.png";
+import vector5 from "../assets/Vector5.png";
+import group35 from "../assets/Group35.png";
 export const Company = () => {
   return (
     <>

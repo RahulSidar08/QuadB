@@ -1,7 +1,7 @@
 import React from "react";
-import milly from "../assets/Ellipse 11.png";
-import vani from "../assets/Ellipse 11 (1).png";
-import denny from "../assets/Ellipse 11 (2).png";
+import milly from "../assets/Ellipse11.png";
+import vani from "../assets/Ellipse11(1).png";
+import denny from "../assets/Ellipse11(2).png";
 export const Testimonials = () => {
   const cards = [
     {

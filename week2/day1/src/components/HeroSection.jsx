@@ -1,5 +1,5 @@
 import React from "react";
-import group1 from "../assets/group 1.png";
+import group1 from "../assets/Group 1.png"
 import Group23 from "../assets/Group 23.png";
 import Vector from "../assets/Vector.png";
 export const HeroSection = () => {
